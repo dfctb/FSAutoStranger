@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="Untitled-1" src="https://github.com/user-attachments/assets/ba2d5330-bb85-4eba-9be4-e9670a42d805" />
+
 # FS AutoStranger
 
 A small BepInEx plugin for the Steam version of **Fallout Shelter** that automatically taps
